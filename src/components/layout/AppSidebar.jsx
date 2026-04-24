@@ -16,3 +16,4 @@ export function AppSidebar() {
     </div>
   );
 }
+
