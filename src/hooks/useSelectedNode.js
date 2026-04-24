@@ -8,3 +8,4 @@ export function useSelectedNode() {
 
   return selectedNode || null;
 }
+
